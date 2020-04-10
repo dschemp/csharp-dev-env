@@ -1,1 +1,1 @@
-# csharp-env
+Standard assets for my personal C# development
