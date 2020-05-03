@@ -1,7 +1,7 @@
 Standard assets for my personal C# development
 
 ### How to add to project
-`git submodule add https://github.com/dschemp/csharp-env <folder_name>`
+`git submodule add https://github.com/schempion/csharp-dev-env <folder_name>`
 
 ### How to clone projects with submodules
 `git clone --recursive <project url>`
